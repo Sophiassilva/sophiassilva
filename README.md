@@ -1,4 +1,4 @@
-# Olá, eu sou a Sophia! 👋
+## Olá, eu sou a Sophia! 👋
 
 **Estudante de Engenharia de Software | UX Designer | Analista de dados**
 
@@ -12,7 +12,8 @@
 
 #### Capital Nexus 
 Nesse projeto, foi desenvolvido um site com área pública para visitantes e área privada para os membros da equipe de competição Capital Rocket Team.
-**[Acesse o site](https://capital-nexus.onrender.com/) | [Repositório Github](https://github.com/mdsreq-fga-unb/2025.1-T01-CapitalNexus) | [Documentação](https://mdsreq-fga-unb.github.io/2025.1-T01-CapitalNexus/) | [Protótipo - Área Pública](https://www.figma.com/proto/oLr46TFUlHuLrmSEJycHma/%C3%81rea-p%C3%BAblica?node-id=133-456&p=f&t=cqCPG9D6iyYOzvDO-8&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=133%3A456&hide-ui=1&share=1)** 
+
+**[Site](https://capital-nexus.onrender.com/) | [Repositório Github](https://github.com/mdsreq-fga-unb/2025.1-T01-CapitalNexus) | [Documentação](https://mdsreq-fga-unb.github.io/2025.1-T01-CapitalNexus/) | [Protótipo - Área Pública](https://www.figma.com/proto/oLr46TFUlHuLrmSEJycHma/%C3%81rea-p%C3%BAblica?node-id=133-456&p=f&t=cqCPG9D6iyYOzvDO-8&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=133%3A456&hide-ui=1&share=1)** 
 
 
 #### Projeto de UX do site do CIEE
