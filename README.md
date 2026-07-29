@@ -1,25 +1,29 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d264b6&height=120&section=header"/>
+# Olá, eu sou a Sophia! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=779be7&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Sophia!;Seja+bem-vindo+:%29)](https://git.io/typing-svg)
-<div align="center">
-  <a href="https://github.com/Sophiassilva">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sophiassilva&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophiassilva&layout=compact&langs_count=10&hide_border=true&title_color=49b6ff&text_color=49b6ff&bg_color=d264b60"/>
-</div>
-  <br>
-  <br>
+**Estudante de Engenharia de Software | UX Designer | Analista de dados**
 
-<div style="display: inline_block">
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
-  <br>
+### 🛠️ Ferramentas e Tecnologias
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d264b6&height=120&section=footer"/>
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,cs,django,figma,git,docker,linux,html,css)](https://skillicons.dev)
 
-##
+---
+
+### 🚀 Projetos em Destaque
+
+#### Capital Nexus 
+Nesse projeto, foi desenvolvido um site com área pública para visitantes e área privada para os membros da equipe de competição Capital Rocket Team.
+**[Acesse o site](https://capital-nexus.onrender.com/) | [Repositório Github](https://github.com/mdsreq-fga-unb/2025.1-T01-CapitalNexus) | [Documentação](https://mdsreq-fga-unb.github.io/2025.1-T01-CapitalNexus/) | [Protótipo - Área Pública](https://www.figma.com/proto/oLr46TFUlHuLrmSEJycHma/%C3%81rea-p%C3%BAblica?node-id=133-456&p=f&t=cqCPG9D6iyYOzvDO-8&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=133%3A456&hide-ui=1&share=1)** 
+
+
+#### Projeto de UX do site do CIEE
+
+Projeto focado para aprendizado da área de experiência do usuário utilizando o site do CIEE. O projeto abrangeu todo as etapas de UX, onde foi realizado pesquisa com usuários, análise de dados, apresentação de resultados e protótipo de alta fidelidade com validação final com cliente demonstrando melhoria na experiência.
+
+**[Protótipo](https://www.figma.com/proto/9oqEDcg8aMmU6wOPgxA6Dd/CIEE?node-id=6-50&p=f&t=GSS9SsNaGQtyeldA-8&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6%3A50&hide-ui=1) | [Repositório]()**
+
+---
+
+### 📬 Como me encontrar
 
  <div> 
   <a href ="https://www.linkedin.com/in/sophia-silva-a725a830a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
