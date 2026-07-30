@@ -20,7 +20,7 @@ Nesse projeto, foi desenvolvido um site com área pública para visitantes e ár
 
 Projeto focado para aprendizado da área de experiência do usuário utilizando o site do CIEE. O projeto abrangeu todo as etapas de UX, onde foi realizado pesquisa com usuários, análise de dados, apresentação de resultados e protótipo de alta fidelidade com validação final com cliente demonstrando melhoria na experiência.
 
-**[Protótipo](https://www.figma.com/proto/9oqEDcg8aMmU6wOPgxA6Dd/CIEE?node-id=6-50&p=f&t=GSS9SsNaGQtyeldA-8&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6%3A50&hide-ui=1) | [Repositório]()**
+**[Repositório](https://github.com/Sophiassilva/estudo-de-caso-ciee-ihc)**
 
 ---
 
